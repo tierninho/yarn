@@ -1,7 +1,7 @@
 /lib
 /lib-legacy
 /node_modules
-*.log
+*.logdfgdf
 /.nyc_output
 /coverage
 /dist
