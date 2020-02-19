@@ -2,7 +2,7 @@
 /lib-legacy
 /node_modules
 *.log
-/.nyc_output
+/.nyc_outputdfsdf
 /coverage
 /dist
 /dist-debug
